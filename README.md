@@ -15,5 +15,5 @@ The project was also supported by a sensitivity analysis to investigate the impa
 
 
 <p align="center">
-  <img width="830" height="300" src="https://github.com/codebyvictor/Rebalancing-Optimization-for-Bike-sharing-Systems/blob/15670d71cd9794acd85617ffafdb47f9dd938617/bixi.png">
+  <img width="830" height="350" src="https://github.com/codebyvictor/Rebalancing-Optimization-for-Bike-sharing-Systems/blob/15670d71cd9794acd85617ffafdb47f9dd938617/bixi.png">
 </p>
