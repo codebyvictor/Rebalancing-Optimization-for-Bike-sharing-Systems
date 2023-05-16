@@ -1,4 +1,4 @@
-# Rebalancing-Optimization-for-Bike-sharing-Systems# Using Mixed Integer Programming to solve supply-demand mismatch for bike sharing service
+# Using Mixed Integer Programming to solve supply-demand mismatch for bike sharing service
 
 Public bike sharing services often face an unbalanced distribution of bikes among the stations across the city. As users tend to follow specific destination flows when going to work, school, or other daily activities (mainly moving from residential areas to downtown in the morning, and vice-versa in the afternoon), many
 stations with a high demand for bikes end up being full, which stops other users from being able to dock their bicycles at their destination.)
