@@ -12,3 +12,8 @@ The following two datasets were used to develop the linear optimization problem:
 Gurobi - a mathematical programming package was used in python to formulate and solve this problem. Due to the complicated nature of the problem, multiple simlifying assumptions were made to ensure the functionality of the model. 
 
 The project was also supported by a sensitivity analysis to investigate the impact of changing demand or prices.
+
+
+<p align="center">
+  <img width="830" height="477" src="https://github.com/codebyvictor/Rebalancing-Optimization-for-Bike-sharing-Systems/blob/15670d71cd9794acd85617ffafdb47f9dd938617/bixi.png">
+</p>
